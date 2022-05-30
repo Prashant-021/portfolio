@@ -1,0 +1,16 @@
+.details-card{
+    border-radius: 20px;
+    box-shadow: 0px 8px 24px rgb(0 0 0 / 15%);
+    text-align: left;
+}
+
+.details-btn{
+    background: #0091D5;
+    color: whitesmoke;
+    border: none;
+}
+
+.details-btn:hover{
+    background: #A5D8DD;
+    color: black;
+}
