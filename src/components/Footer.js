@@ -1,11 +1,11 @@
 import React from 'react'
-
+import './css/footer.css'
 export default function Footer() {
     return (
-        <footer class="bd-footer p-2 bg-dark text-light">
-            <div class="container">
-                <div class="row">
-                    <div class="col">
+        <footer className="bd-footer my-footer p-2 text-light">
+            <div className="container">
+                <div className="row">
+                    <div className="col">
                         This is footer
                     </div>
                 </div>
