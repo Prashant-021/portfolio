@@ -43,6 +43,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Routes>
+        <Route path="/" element={<Dashboard />} />
         <Route path="/Portfolio-Admin" element={<Dashboard />} />
         <Route path="/Details" element={<Details />} />
         <Route path="/Project" element={<Project />} />
