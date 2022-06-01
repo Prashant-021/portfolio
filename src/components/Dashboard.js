@@ -49,7 +49,7 @@ export default function dashboard() {
                                 <div className="card dash-card w-80">
                                     <div className="card-body my-card-body">
                                         <img src={img4} className="card-img-top my-img" alt="..." />
-                                        <a className="btn my-btn" href="/Testimonials" role="button">User Inquery</a>
+                                        <a className="btn my-btn" href="/Users" role="button">User Inquery</a>
                                     </div>
                                 </div>
                             </div>

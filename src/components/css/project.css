@@ -61,3 +61,14 @@
 	margin-bottom: 20px;
 }
 
+.project-list .jumbotron{
+	background:none; padding: 2rem 0rem;
+}
+
+.project-list .table{
+	position:relative;
+}
+
+.project-list .btn{
+	width:80px;
+}
